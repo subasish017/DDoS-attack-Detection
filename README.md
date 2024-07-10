@@ -178,6 +178,6 @@ The dataset used for training and testing the models is CIC-IDS2017 dataset.
 | Actual Positive | 14                  | 25730                  |
 
 ## Conclusion
-The implemented machine learning models demonstrate varying degrees of effectiveness in detecting DDoS attacks. The results indicate that [insert the best-performing model] performs the best based on the evaluated metrics. Future work includes further tuning of models, exploring additional features, and integrating these models into real-time DDoS detection systems.
+The implemented machine learning models demonstrate varying degrees of effectiveness in detecting DDoS attacks. The results indicate that Transfer Learning model performs the best based on the evaluated metrics. Future work includes further tuning of models, exploring additional features, and integrating these models into real-time DDoS detection systems.
 
 
